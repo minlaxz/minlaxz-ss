@@ -1,0 +1,15 @@
+{
+  "name": "@minlaxz/ss",
+  "version": "1.0.0",
+  "description": "Testing NPM package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "minlaxz"
+  ],
+  "author": "minminlaxz@gmail.com",
+  "license": "ISC"
+}
